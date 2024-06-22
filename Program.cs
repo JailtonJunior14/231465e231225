@@ -91,7 +91,7 @@ namespace _231465e231225
                  
 
                 saldo -= pag;
-                Console.WriteLine("Saldo apos saque: " + saldo);
+                Console.WriteLine("Saldo apos pagamento: " + saldo);
             }
             else
             {
